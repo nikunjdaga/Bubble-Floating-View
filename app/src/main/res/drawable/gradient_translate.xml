@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/selected"
+    android:oneshot="false">
+    <!-- The drawables used here can be solid colors, gradients, shapes, images, etc. -->
+    <item
+        android:drawable="@drawable/gradient_seventh_bg"
+        android:duration="4000" />
+    <item
+        android:drawable="@drawable/gradient_third_bg"
+        android:duration="4000" />
+    <item
+        android:drawable="@drawable/gradient_new_state"
+        android:duration="4000" />
+    <item
+        android:drawable="@drawable/gradient_fourth_bg"
+        android:duration="4000" />
+    <item
+        android:drawable="@drawable/gradient_sixth_bg"
+        android:duration="4000" />
+    <item
+        android:drawable="@drawable/gradient_original_state"
+        android:duration="4000" />
+    <item
+        android:drawable="@drawable/gradient_fifth_bg"
+        android:duration="4000" />
+
+</animation-list>
